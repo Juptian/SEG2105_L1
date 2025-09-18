@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Yan
-=======
-kate
->>>>>>> 2436d580d6bc57348fd620aa622b0c3f806f2dfd
-=======
 kate
 Michael
->>>>>>> dd799e77aeb3415f27e9413eec59c795a6663790
